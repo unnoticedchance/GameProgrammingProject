@@ -1,2 +1,3 @@
 # GameProgrammingProject
-Jo
+Jojo game
+
